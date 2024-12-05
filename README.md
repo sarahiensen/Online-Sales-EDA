@@ -1,2 +1,2 @@
-# Online-Sales-ETL
+# Online-Sales-EDA
  
